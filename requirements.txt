@@ -1,0 +1,2 @@
+llama-index==0.10.30
+weaviate-client==4.6.5
